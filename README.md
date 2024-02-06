@@ -2,6 +2,8 @@
 ## Pokemon API - Data retrieval and understanding
 - Send Get request for the desired character to receive its data. Analyize and understand the data returned eg. Number of values returend, data type, Arrays and Object and any URL's etc
 Chracter Name: charmeleon
+URL: https://pokeapi.co/api/v2/pokemon-form/5/
+Data retrieved: Type; String, Array, Number, boolean 
 <img width="960" alt="image" src="https://github.com/uxeeCoder/postman-reflection/assets/148591312/23e3efac-38f6-4257-81bc-9a5229f06c1e">
 <img width="960" alt="image" src="https://github.com/uxeeCoder/postman-reflection/assets/148591312/78cb30f2-244c-4c1f-b6c1-31ba1af888de">
 
