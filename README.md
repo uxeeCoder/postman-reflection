@@ -25,4 +25,10 @@ Chracter Name: Kingler
 
 <img width="960" alt="image" src="https://github.com/uxeeCoder/postman-reflection/assets/148591312/4c8fcd19-7f1a-4591-985f-0aef92547fa8">
 
+
+
+# Exploring a Weather API
+## Objective
+Gain hands-on experience with the Weather API by sending requests using Postman. Understand the significance of query parameters in API requests and document the process and findings.
+
  
