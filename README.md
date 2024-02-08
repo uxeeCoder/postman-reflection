@@ -39,6 +39,26 @@ Gain hands-on experience with the Weather API by sending requests using Postman.
 
 
 
+# API Collections
+## Objective
+Create a collection in Postman specifically for the weather API, and utilize a variable to manage the API key. Send a request to the weather API and document the entire process and the response received.
+
+### Steps:
+- In Postman, create a new collection named "Weather API Collection"
+- Set up a new environment in Postman, named "Weather API Environment".
+- Added new variable for the API key, with the name 'weatherApiKey'.
+- Assigned my weather API key to this variable.
+- Created new Get request "GetWeatherReport" in "Weather API Collection".
+- Passed the 'weatherApiKey' variable instead of actual API key in Get request.
+- Chose an endpoint and set location parameter to retrieve its data.
+
+- <img width="960" alt="image" src="https://github.com/uxeeCoder/postman-reflection/assets/148591312/7e3f3467-5351-4679-af09-2d3e459c23eb">
+<img width="960" alt="image" src="https://github.com/uxeeCoder/postman-reflection/assets/148591312/71bbb9f0-f39b-4e7b-abac-4d60caa74174">
+
+
+
+
+
 
 
 
