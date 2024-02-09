@@ -56,6 +56,31 @@ Create a collection in Postman specifically for the weather API, and utilize a v
 <img width="960" alt="image" src="https://github.com/uxeeCoder/postman-reflection/assets/148591312/71bbb9f0-f39b-4e7b-abac-4d60caa74174">
 
 
+# Interacting with GitHub's API
+## Objective
+Utilize Postman to interact with GitHub's API by retrieving user information and creating a new repository. Document the entire process, including the request setup and the response in your README.md file, accompanied by appropriate screenshots.
+
+<img width="960" alt="image" src="https://github.com/uxeeCoder/postman-reflection/assets/148591312/ceb11a80-6201-4047-8ec0-c7adb8378fee">
+
+<img width="960" alt="image" src="https://github.com/uxeeCoder/postman-reflection/assets/148591312/2f6a1e44-94d7-407f-a7f4-123928303ef0">
+
+Post Request to Create a new GitHub Repo:
+<img width="960" alt="image" src="https://github.com/uxeeCoder/postman-reflection/assets/148591312/c161cf72-4620-41f9-a9ac-9a5eeba67f69">
+
+Repo Successfully Created:
+<img width="960" alt="image" src="https://github.com/uxeeCoder/postman-reflection/assets/148591312/a7289612-4000-4917-be50-ae6f1569d953">
+
+GitHub Repo:
+<img width="960" alt="image" src="https://github.com/uxeeCoder/postman-reflection/assets/148591312/274fc242-5e99-445a-b644-5710173e8792">
+
+
+
+
+
+
+
+
+
 
 
 
