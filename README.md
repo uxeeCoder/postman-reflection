@@ -64,13 +64,16 @@ Utilize Postman to interact with GitHub's API by retrieving user information and
 
 <img width="960" alt="image" src="https://github.com/uxeeCoder/postman-reflection/assets/148591312/2f6a1e44-94d7-407f-a7f4-123928303ef0">
 
-Post Request to Create a new GitHub Repo:
+Learning Curve: sent Post Request to Create a new GitHub Repo with "private": "False" as string while it had to be a boolean, as a result a private Repo was created.
 <img width="960" alt="image" src="https://github.com/uxeeCoder/postman-reflection/assets/148591312/c161cf72-4620-41f9-a9ac-9a5eeba67f69">
+
+Fixed data tpye to boolean to succesfully create a Public Repo.
+<img width="960" alt="image" src="https://github.com/uxeeCoder/postman-reflection/assets/148591312/89beb8f2-c83a-492b-bf88-7cd6f12e5180">
 
 Repo Successfully Created:
 <img width="960" alt="image" src="https://github.com/uxeeCoder/postman-reflection/assets/148591312/a7289612-4000-4917-be50-ae6f1569d953">
 
-GitHub Repo:
+GitHub Repo Page:
 <img width="960" alt="image" src="https://github.com/uxeeCoder/postman-reflection/assets/148591312/274fc242-5e99-445a-b644-5710173e8792">
 
 
