@@ -76,6 +76,15 @@ Repo Successfully Created:
 GitHub Repo Page:
 <img width="960" alt="image" src="https://github.com/uxeeCoder/postman-reflection/assets/148591312/274fc242-5e99-445a-b644-5710173e8792">
 
+# Thunder Client
+## Objective
+The objective of this assignment is to replicate the tasks completed on Day 4, but this time using Thunder Client in VS Code. This will provide hands-on experience with an alternative API testing tool and offer insights into the differences and similarities between Thunder Client and Postman.
+
+<img width="960" alt="image" src="https://github.com/uxeeCoder/postman-reflection/assets/148591312/fc52144d-aeef-49e0-95cb-e5b1e35d6a8b">
+
+
+
+
 
 
 
