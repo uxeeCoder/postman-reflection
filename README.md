@@ -79,8 +79,18 @@ GitHub Repo Page:
 # Thunder Client
 ## Objective
 The objective of this assignment is to replicate the tasks completed on Day 4, but this time using Thunder Client in VS Code. This will provide hands-on experience with an alternative API testing tool and offer insights into the differences and similarities between Thunder Client and Postman.
-
+### Get Request:
 <img width="960" alt="image" src="https://github.com/uxeeCoder/postman-reflection/assets/148591312/fc52144d-aeef-49e0-95cb-e5b1e35d6a8b">
+<img width="960" alt="image" src="https://github.com/uxeeCoder/postman-reflection/assets/148591312/a4d5dcb1-7a58-4b01-9b7c-60a174873e65">
+
+Post request: Create a New GitHub repo with POST
+<img width="960" alt="image" src="https://github.com/uxeeCoder/postman-reflection/assets/148591312/7397872e-2a2e-451d-8be4-9f2b67ccfd3d">
+
+GitHUb Screenshot of new Repo:
+<img width="960" alt="image" src="https://github.com/uxeeCoder/postman-reflection/assets/148591312/ffc056f7-f376-42c9-b4fa-c78faff8c1d0">
+
+
+
 
 
 
